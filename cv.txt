@@ -1,0 +1,31 @@
+
+SHEL​MITH NJERI
+Software Engineering Student
+Zetech University
+
+PROFILE
+Motivated Software Engineering student seeking an internship
+to gain practical experience and contribute to software
+and web development projects.
+
+TECHNICAL SKILLS
+- HTML
+- CSS
+- Python
+- Database Management
+- JavaScript
+- C Programming
+
+PROJECTS
+
+CropClimate
+A website concept for understanding crop stress and climate risks.
+Technologies: HTML, CSS, JavaScript
+
+Hospital Management Portal
+A portal concept for patient and doctor interfaces.
+Technologies: HTML, CSS, JavaScript
+
+CONTACT
+Email: shelmith18gmail.com
+Phone: +254 795442961
